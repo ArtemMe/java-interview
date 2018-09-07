@@ -38,13 +38,13 @@
     * 3.8 Потоки
         * 3.8.1 Создание
         * 3.8.2 Запуск остановка.
-	* 3.8.3 java.util.concurrent
-	    * 3.8.3.1 Concurrent Collections
-	    * 3.8.3.2 Queues
-	    * 3.8.3.3 Synchronizers
-	    * 3.8.3.4 Executors 
-	    * 3.8.3.4 Locks
-	    * 3.8.3.4 Atomics
+        * 3.8.3 java.util.concurrent
+            * 3.8.3.1 Concurrent Collections
+            * 3.8.3.2 Queues
+            * 3.8.3.3 Synchronizers
+            * 3.8.3.4 Executors 
+            * 3.8.3.4 Locks
+            * 3.8.3.4 Atomics
     * 3.9 Quartz
     * 3.10 Коллекции и их внутренние устройство.
     * 3.11 Потокобезопасные коллекции.
