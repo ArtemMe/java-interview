@@ -34,7 +34,8 @@
     * 3.4 immutable
     * 3.5 String. Их итерирование.
     * 3.6 Итераторы.
-    * 3.7 Final/finally/finalize
+    * 3.7 Final/finally/finalize  
+    * 3.7 Округление. Работа с деньгами. BigDecimal
     * 3.8 Потоки
         * 3.8.1 Создание
         * 3.8.2 Запуск остановка.
