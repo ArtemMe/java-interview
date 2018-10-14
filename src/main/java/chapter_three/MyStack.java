@@ -1,15 +1,6 @@
 package chapter_three;
 
 import java.util.EmptyStackException;
-/**
- * Основыне операции стека
- * */
-interface Stack<T>{
-   T pop(); // достать элемент из стэка
-   void push(T item); // положить элемент в стэк
-   T peek();  // вернуть элемент находящийся на вершине стека
-   boolean isEmpty(); // проверить что стек пустой
-}
 
 public class MyStack<T> implements Stack<T> {
 
