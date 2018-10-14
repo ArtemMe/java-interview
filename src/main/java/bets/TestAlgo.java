@@ -17,6 +17,7 @@ public class TestAlgo {
         float[] cutArr = null;
 
         //generate new array with number greater than the minVal
+        //TODO убрать генерацию вообще
         for(int i=0;i<intArr.length;i++){
             if(intArr[i]>minVal){
                 cutArr = new float[intArr.length-i];
