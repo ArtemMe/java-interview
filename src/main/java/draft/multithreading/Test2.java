@@ -53,10 +53,10 @@ class CountThread implements Runnable{
         this.res2=res2;
     }
     public void run(){
-        //res.increment();
+        res.increment();
 
-        synchronized (res2) {
-            res2.increment();
-        }
+//        synchronized (res2) {
+//            res2.increment();
+//        }
     }
 }

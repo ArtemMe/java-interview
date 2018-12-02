@@ -14,7 +14,7 @@ fixtures/dom/public/react-dom.js
 fixtures/dom/public/react.js
 test/the-files-to-test.generated.js
 *.log*
-chrome-user-data
+chrome-user-key
 *.sublime-project
 *.sublime-workspace
 .idea
@@ -45,7 +45,7 @@ chrome-user-data
 /code
 MANIFEST.MF
 _site/
-activemq-data
+activemq-key
 bin
 build
 build.log
