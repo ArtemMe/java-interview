@@ -4,6 +4,8 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runners.JUnit4;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Random;
 import static java.util.stream.Collectors.joining;
 
@@ -27,6 +29,7 @@ public class SnailTest {
         String text = int2dToString(array) + " should be sorted to " + Arrays.toString(result);
         System.out.println(text);
         Assert.assertArrayEquals( result, Snail.snail(array));
+        Map map = new HashMap();
     }
 
 
